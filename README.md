@@ -1,1 +1,1 @@
-# charangavvala1706
+This project aims to automate attendance management in educational institutions and organizations using AI and camera monitoring. The proposed system is expected to offer improved accuracy, efficiency, and real-time data. The system's benefits include improved engagement, regular attendance, and better learning outcomes for students.
